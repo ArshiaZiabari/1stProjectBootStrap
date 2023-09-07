@@ -1,0 +1,35 @@
+#Text-Background{
+    background-image: url(images.jpeg);
+    background-size: cover;  
+}
+#Html{
+    background-image: url(Html.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#Css{
+    background-image: url(Css.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#Box{
+    background-clip: padding-box;
+    border: 10px solid transparent;
+}
+#Btn:hover{
+    background-color: rgb(13, 110, 253);
+}
+#Sticky{
+    position: sticky;
+    top: 2rem;
+}
+#Droptdown{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+#button{
+    background: rgb(120, 34, 226);
+}
